@@ -1,0 +1,30 @@
+{
+  "name": "teamwork",
+  "version": "1.0.0",
+  "description": "OOP and testing the code",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test --verbose test/*"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hillkr2/TEAMGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hillkr2/TEAMGenerator/issues"
+  },
+  "homepage": "https://github.com/hillkr2/TEAMGenerator#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0",
+    "jest": "^25.3.0",
+    "require": "^2.4.20",
+    "required": "^1.0.0"
+  }
+}
